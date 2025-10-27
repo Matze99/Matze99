@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Matze99
 - 👀 I’m interested in Machine Learning, Robotics, ...
-- 🌱 I’m currently learning deep learning based outlier detection.
+- 🌱 I’m currently learning deep time-series prediction for energy consumption prediction.
 - 📫 How to reach me 
   - matthias.ruiz@blue-chestnut.com
   - [LinkedIn](https://www.linkedin.com/in/matthias-ruiz-hamacher-769766176/)
